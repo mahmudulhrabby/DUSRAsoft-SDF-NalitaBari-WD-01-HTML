@@ -1,0 +1,65 @@
+/*
+    Bashay dekhben 
+    ---------------------
+    Content size or Text size or Font size
+    Margin auto
+    ---------------------
+
+*/
+
+body{
+    margin: 0;
+}
+
+.firstdiv{
+    background-color: #F1F1F1;
+
+    /* padding: top right bottom left */
+    padding: 80px 55px 40px 100px;
+
+    /* margin: top right bottom left */
+    margin: 30px 40px 10px 90px;
+
+    text-align: left;
+
+    outline-width: 5px;
+    outline-style: solid;
+    outline-color: #4CAF50;
+}
+
+.sayeed{
+    background-color: #4CAF50;
+    padding: 40px;
+    text-align: right;
+
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #ffffff;
+
+    /* border-radius: top right bottom left ; */
+    border-radius: 50px 100px 30px 90px;
+
+    /* outline: width slide color ; */
+    outline: 10px dotted #4CAF50 ;
+}
+
+.third-div{
+    background-color: #F1F1F1;
+    padding: 40px;
+    text-align: center;
+
+    /* border: width style color ; */
+    border: 5px double #000000;
+
+    /* border-radius: top-bottom left-right ; */
+    border-radius: 50px 90px;
+}
+
+.fourth-div{
+    background-color: #FFFFFF;
+    text-align: right;
+
+    /* padding: top-bottom left-right ; */
+    padding: 40px 50px;
+
+}
